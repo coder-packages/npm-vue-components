@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import Modal from './components/Modal/Modal'
+import Modal from './components/modal/Modal'
 export default {
   components: {
     Modal
